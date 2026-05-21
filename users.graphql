@@ -1,0 +1,22 @@
+type User {
+  id: ID!
+  name: String!
+  email: String!
+  active: Boolean!
+  country: String!
+  tags: [String!]!
+}
+
+type Query {
+  users(active: Boolean): [User!]!
+}
+
+query ActiveUsers {
+  users(active: true) {
+    id
+    name
+    email
+    country
+    tags
+  }
+}
