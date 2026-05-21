@@ -1,0 +1,4 @@
+id	name	email	active	country	tags
+1	Ada Lovelace	ada@example.com	true	UK	math|history
+2	Grace Hopper	grace@example.com	true	US	navy|compiler
+3	Katherine Johnson	katherine@example.com	false	US	nasa|analysis

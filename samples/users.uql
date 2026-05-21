@@ -1,0 +1,4 @@
+parse-json
+| scope "users"
+| project "id", "name", "email", "active", "country", "tags"
+| where "active" = true

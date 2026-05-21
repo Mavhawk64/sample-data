@@ -1,0 +1,7 @@
+users[active == true]{
+  id,
+  name,
+  email,
+  country,
+  tags
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ada Lovelace",
+      "email": "ada@example.com",
+      "active": true,
+      "country": "UK",
+      "tags": ["math", "history"]
+    },
+    {
+      "id": 2,
+      "name": "Grace Hopper",
+      "email": "grace@example.com",
+      "active": true,
+      "country": "US",
+      "tags": ["navy", "compiler"]
+    },
+    {
+      "id": 3,
+      "name": "Katherine Johnson",
+      "email": "katherine@example.com",
+      "active": false,
+      "country": "US",
+      "tags": ["nasa", "analysis"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1" active="true">
+    <name>Ada Lovelace</name>
+    <email>ada@example.com</email>
+    <country>UK</country>
+    <tags>
+      <tag>math</tag>
+      <tag>history</tag>
+    </tags>
+  </user>
+  <user id="2" active="true">
+    <name>Grace Hopper</name>
+    <email>grace@example.com</email>
+    <country>US</country>
+    <tags>
+      <tag>navy</tag>
+      <tag>compiler</tag>
+    </tags>
+  </user>
+  <user id="3" active="false">
+    <name>Katherine Johnson</name>
+    <email>katherine@example.com</email>
+    <country>US</country>
+    <tags>
+      <tag>nasa</tag>
+      <tag>analysis</tag>
+    </tags>
+  </user>
+</users>
